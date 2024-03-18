@@ -1,4 +1,4 @@
-# main_script.py
+# main.py
 import asyncio
 
 from html_parser import parse_html_dump, save_data_as_json
