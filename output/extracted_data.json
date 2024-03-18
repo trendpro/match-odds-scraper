@@ -1,0 +1,493 @@
+[
+    {
+        "tournament": "ATP Masters Miami (USA) - Qualification - Hard",
+        "player1": "Rei Sakamoto JPN",
+        "player2": "Vit Kopriva CZE",
+        "eventName": "Rei Sakamoto JPN vs Vit Kopriva CZE",
+        "player1_odds": "2.55",
+        "player2_odds": "1.45",
+        "lastUpdate": "2024-03-18 15:40"
+    },
+    {
+        "tournament": "ATP Masters Miami (USA) - Qualification - Hard",
+        "player1": "Hugo Gaston FRA",
+        "player2": "Coleman Wong HKG",
+        "eventName": "Hugo Gaston FRA vs Coleman Wong HKG",
+        "player1_odds": "2.90",
+        "player2_odds": "1.36",
+        "lastUpdate": "2024-03-18 15:40"
+    },
+    {
+        "tournament": "ATP Masters Miami (USA) - Qualification - Hard",
+        "player1": "Gabriel Diallo CAN",
+        "player2": "Sumit Nagal IND",
+        "eventName": "Gabriel Diallo CAN vs Sumit Nagal IND",
+        "player1_odds": "1.80",
+        "player2_odds": "1.91",
+        "lastUpdate": "2024-03-18 15:40"
+    },
+    {
+        "tournament": "ATP Masters Miami (USA) - Qualification - Hard",
+        "player1": "J.J. Wolf USA",
+        "player2": "Eliot Spizzirri USA",
+        "eventName": "J.J. Wolf USA vs Eliot Spizzirri USA",
+        "player1_odds": "1.04",
+        "player2_odds": "8.75",
+        "lastUpdate": "2024-03-18 15:40"
+    },
+    {
+        "tournament": "ATP Masters Miami (USA) - Qualification - Hard",
+        "player1": "Pedro Martinez ESP",
+        "player2": "Alexander Blockx BEL",
+        "eventName": "Pedro Martinez ESP vs Alexander Blockx BEL",
+        "player1_odds": "1.28",
+        "player2_odds": "3.40",
+        "lastUpdate": "2024-03-18 15:40"
+    },
+    {
+        "tournament": "ATP Masters Miami (USA) - Qualification - Hard",
+        "player1": "Aleksandar Kovacevic USA",
+        "player2": "Patrick Kypson USA",
+        "eventName": "Aleksandar Kovacevic USA vs Patrick Kypson USA",
+        "eventDate": "2024-03-19 00:15",
+        "player1_odds": "1.80",
+        "player2_odds": "1.95",
+        "lastUpdate": "2024-03-18 15:40"
+    },
+    {
+        "tournament": "ATP Masters Miami (USA) - Qualification - Hard",
+        "player1": "Felipe Meligeni Rodrigues Alves BRA",
+        "player2": "Zizou Bergs BEL",
+        "eventName": "Felipe Meligeni Rodrigues Alves BRA vs Zizou Bergs BEL",
+        "eventDate": "2024-03-19 00:15",
+        "player1_odds": "2.80",
+        "player2_odds": "1.40",
+        "lastUpdate": "2024-03-18 15:40"
+    },
+    {
+        "tournament": "ATP Masters Miami (USA) - Qualification - Hard",
+        "player1": "Hugo Grenier FRA",
+        "player2": "Thanasi Kokkinakis AUS",
+        "eventName": "Hugo Grenier FRA vs Thanasi Kokkinakis AUS",
+        "eventDate": "2024-03-19 00:15",
+        "player1_odds": "3.10",
+        "player2_odds": "1.33",
+        "lastUpdate": "2024-03-18 15:40"
+    },
+    {
+        "tournament": "ATP Masters Miami (USA) - Qualification - Hard",
+        "player1": "Thiago Seyboth Wild BRA",
+        "player2": "Damir Dzumhur BIH",
+        "eventName": "Thiago Seyboth Wild BRA vs Damir Dzumhur BIH",
+        "eventDate": "2024-03-19 00:15",
+        "player1_odds": "1.40",
+        "player2_odds": "2.80",
+        "lastUpdate": "2024-03-18 15:40"
+    },
+    {
+        "tournament": "ATP Masters Miami (USA) - Qualification - Hard",
+        "player1": "Adam Walton AUS",
+        "player2": "Thiago Monteiro BRA",
+        "eventName": "Adam Walton AUS vs Thiago Monteiro BRA",
+        "eventDate": "2024-03-19 00:15",
+        "player1_odds": "1.78",
+        "player2_odds": "1.95",
+        "lastUpdate": "2024-03-18 15:40"
+    },
+    {
+        "tournament": "ATP Masters Miami (USA) - Qualification - Hard",
+        "player1": "Brandon Nakashima USA",
+        "player2": "Michael Mmoh USA",
+        "eventName": "Brandon Nakashima USA vs Michael Mmoh USA",
+        "eventDate": "2024-03-19 02:15",
+        "player1_odds": "1.30",
+        "player2_odds": "3.30",
+        "lastUpdate": "2024-03-18 15:40"
+    },
+    {
+        "tournament": "ATP Masters Miami (USA) - Qualification - Hard",
+        "player1": "Cristian Garin CHI",
+        "player2": "Valentin Vacherot MON",
+        "eventName": "Cristian Garin CHI vs Valentin Vacherot MON",
+        "eventDate": "2024-03-19 02:15",
+        "player1_odds": "1.55",
+        "player2_odds": "2.35",
+        "lastUpdate": "2024-03-18 15:40"
+    },
+    {
+        "tournament": "ATP Masters Miami (USA) - Qualification - Hard",
+        "player1": "Arthur Cazaux FRA",
+        "player2": "Harold Mayot FRA",
+        "eventName": "Arthur Cazaux FRA vs Harold Mayot FRA",
+        "eventDate": "2024-03-19 02:15",
+        "player1_odds": "1.25",
+        "player2_odds": "3.70",
+        "lastUpdate": "2024-03-18 15:40"
+    },
+    {
+        "tournament": "ATP Masters Miami (USA) - Qualification - Hard",
+        "player1": "Shintaro Mochizuki JPN",
+        "player2": "David Goffin BEL",
+        "eventName": "Shintaro Mochizuki JPN vs David Goffin BEL",
+        "eventDate": "2024-03-19 02:15",
+        "player1_odds": "2.85",
+        "player2_odds": "1.40",
+        "lastUpdate": "2024-03-18 15:40"
+    },
+    {
+        "tournament": "ATP Masters Miami (USA) - Qualification - Hard",
+        "player1": "Andrea Vavassori ITA",
+        "player2": "Duje Ajdukovic CRO",
+        "eventName": "Andrea Vavassori ITA vs Duje Ajdukovic CRO",
+        "eventDate": "2024-03-19 02:15",
+        "player1_odds": "1.50",
+        "player2_odds": "2.45",
+        "lastUpdate": "2024-03-18 15:40"
+    },
+    {
+        "tournament": "ATP Masters Miami (USA) - Qualification - Hard",
+        "player1": "Jakub Mensik CZE",
+        "player2": "Luca Nardi ITA",
+        "eventName": "Jakub Mensik CZE vs Luca Nardi ITA",
+        "eventDate": "2024-03-19 04:15",
+        "player1_odds": "1.42",
+        "player2_odds": "2.70",
+        "lastUpdate": "2024-03-18 15:40"
+    },
+    {
+        "tournament": "ATP Masters Miami (USA) - Qualification - Hard",
+        "player1": "Zachary Svajda USA",
+        "player2": "Diego Schwartzman ARG",
+        "eventName": "Zachary Svajda USA vs Diego Schwartzman ARG",
+        "eventDate": "2024-03-19 04:15",
+        "player1_odds": "1.53",
+        "player2_odds": "2.40",
+        "lastUpdate": "2024-03-18 15:40"
+    },
+    {
+        "tournament": "ATP Masters Miami (USA) - Qualification - Hard",
+        "eventName": "Benjamin Hassan GER vs Roberto Bautista-Agut ESP",
+        "player1": "Benjamin Hassan GER",
+        "player2": "Roberto Bautista-Agut ESP",
+        "eventDate": "2024-03-19 04:15",
+        "player1_odds": "3.30",
+        "player2_odds": "1.30",
+        "lastUpdate": "2024-03-18 15:40"
+    },
+    {
+        "tournament": "ATP Masters Miami (USA) - Qualification - Hard",
+        "player1": "Lukas Klein SVK",
+        "player2": "Benoit Paire FRA",
+        "eventName": "Lukas Klein SVK vs Benoit Paire FRA",
+        "eventDate": "2024-03-19 04:15",
+        "player1_odds": "1.28",
+        "player2_odds": "3.50",
+        "lastUpdate": "2024-03-18 15:40"
+    },
+    {
+        "tournament": "ATP Masters Miami (USA) - Qualification - Hard",
+        "player1": "Emilio Nava USA",
+        "player2": "Quentin Halys FRA",
+        "eventName": "Emilio Nava USA vs Quentin Halys FRA",
+        "eventDate": "2024-03-19 04:15",
+        "player1_odds": "2.10",
+        "player2_odds": "1.67",
+        "lastUpdate": "2024-03-18 15:40"
+    },
+    {
+        "tournament": "ATP Masters Miami (USA) - Qualification - Hard",
+        "player1": "Jurij Rodionov AUT",
+        "player2": "Otto Virtanen FIN",
+        "eventName": "Jurij Rodionov AUT vs Otto Virtanen FIN",
+        "eventDate": "2024-03-19 04:15",
+        "player1_odds": "2.20",
+        "player2_odds": "1.62",
+        "lastUpdate": "2024-03-18 15:40"
+    },
+    {
+        "tournament": "ATP Masters Miami (USA) - Qualification - Hard",
+        "player1": "Yoshihito Nishioka JPN",
+        "player2": "Elias Ymer SWE",
+        "eventName": "Yoshihito Nishioka JPN vs Elias Ymer SWE",
+        "eventDate": "2024-03-19 04:15",
+        "player1_odds": "1.28",
+        "player2_odds": "3.50",
+        "lastUpdate": "2024-03-18 15:40"
+    },
+    {
+        "tournament": "ATP Masters Miami (USA) - Qualification - Hard",
+        "player1": "Arthur Rinderknech FRA",
+        "player2": "Blaise Bicknell JAM",
+        "eventName": "Arthur Rinderknech FRA vs Blaise Bicknell JAM",
+        "eventDate": "2024-03-19 04:15",
+        "player1_odds": "1.13",
+        "player2_odds": "5.50",
+        "lastUpdate": "2024-03-18 15:40"
+    },
+    {
+        "tournament": "ATP Masters Miami (USA) - Qualification - Hard",
+        "player1": "Terence Atmane FRA",
+        "player2": "Constant Lestienne FRA",
+        "eventName": "Terence Atmane FRA vs Constant Lestienne FRA",
+        "eventDate": "2024-03-19 04:15",
+        "player1_odds": "1.75",
+        "player2_odds": "2.00",
+        "lastUpdate": "2024-03-18 15:40"
+    },
+    {
+        "tournament": "WTA 1000 Miami (USA) - Hard",
+        "player1": "Magdalena Frech POL",
+        "player2": "Camila Giorgi ITA",
+        "eventName": "Magdalena Frech POL vs Camila Giorgi ITA",
+        "eventDate": "2024-03-19 21:00",
+        "player1_odds": "1.72",
+        "player2_odds": "2.10",
+        "lastUpdate": "2024-03-18 15:40"
+    },
+    {
+        "tournament": "WTA 1000 Miami (USA) - Hard",
+        "player1": "Shelby Rogers USA",
+        "player2": "Linda Fruhvirtova CZE",
+        "eventName": "Shelby Rogers USA vs Linda Fruhvirtova CZE",
+        "eventDate": "2024-03-19 21:00",
+        "player1_odds": "2.05",
+        "player2_odds": "1.75",
+        "lastUpdate": "2024-03-18 15:40"
+    },
+    {
+        "tournament": "WTA 1000 Miami (USA) - Hard",
+        "player1": "Donna Vekic CRO",
+        "player2": "Karolina Pliskova CZE",
+        "eventName": "Donna Vekic CRO vs Karolina Pliskova CZE",
+        "eventDate": "2024-03-19 21:00",
+        "player1_odds": "2.15",
+        "player2_odds": "1.67",
+        "lastUpdate": "2024-03-18 15:40"
+    },
+    {
+        "tournament": "WTA 1000 Miami (USA) - Hard",
+        "player1": "Marie Bouzkova CZE",
+        "player2": "Lin Zhu CHN",
+        "eventName": "Marie Bouzkova CZE vs Lin Zhu CHN",
+        "eventDate": "2024-03-19 21:00",
+        "player1_odds": "1.50",
+        "player2_odds": "2.55",
+        "lastUpdate": "2024-03-18 15:40"
+    },
+    {
+        "tournament": "WTA 1000 Miami (USA) - Hard",
+        "player1": "Sara Sorribes Tormo ESP",
+        "player2": "Arantxa Rus NED",
+        "eventName": "Sara Sorribes Tormo ESP vs Arantxa Rus NED",
+        "eventDate": "2024-03-19 21:00",
+        "player1_odds": "1.75",
+        "player2_odds": "2.05",
+        "lastUpdate": "2024-03-18 15:40"
+    },
+    {
+        "tournament": "WTA 1000 Miami (USA) - Hard",
+        "player1": "Elisabetta Cocciaretto ITA",
+        "player2": "Naomi Osaka JPN",
+        "eventName": "Elisabetta Cocciaretto ITA vs Naomi Osaka JPN",
+        "eventDate": "2024-03-19 21:00",
+        "player1_odds": "2.30",
+        "player2_odds": "1.60",
+        "lastUpdate": "2024-03-18 15:40"
+    },
+    {
+        "tournament": "WTA 1000 Miami (USA) - Hard",
+        "player1": "Sloane Stephens USA",
+        "player2": "Angelique Kerber GER",
+        "eventName": "Sloane Stephens USA vs Angelique Kerber GER",
+        "eventDate": "2024-03-19 21:00",
+        "player1_odds": "1.62",
+        "player2_odds": "2.25",
+        "lastUpdate": "2024-03-18 15:40"
+    },
+    {
+        "tournament": "WTA 1000 Miami (USA) - Hard",
+        "player1": "Elina Avanesyan RUS",
+        "player2": "Erika Andreeva RUS",
+        "eventName": "Elina Avanesyan RUS vs Erika Andreeva RUS",
+        "eventDate": "2024-03-19 21:00",
+        "player1_odds": "3.10",
+        "player2_odds": "1.36",
+        "lastUpdate": "2024-03-18 15:40"
+    },
+    {
+        "tournament": "WTA 1000 Miami (USA) - Hard",
+        "player1": "Anna Blinkova RUS",
+        "player2": "Yue Yuan CHN",
+        "eventName": "Anna Blinkova RUS vs Yue Yuan CHN",
+        "eventDate": "2024-03-19 21:00",
+        "player1_odds": "2.20",
+        "player2_odds": "1.65",
+        "lastUpdate": "2024-03-18 15:40"
+    },
+    {
+        "tournament": "WTA 1000 Miami (USA) - Hard",
+        "player1": "Daria Saville AUS",
+        "player2": "Shuai Zhang CHN",
+        "eventName": "Daria Saville AUS vs Shuai Zhang CHN",
+        "eventDate": "2024-03-19 21:00",
+        "player1_odds": "1.26",
+        "player2_odds": "3.75",
+        "lastUpdate": "2024-03-18 15:40"
+    },
+    {
+        "tournament": "WTA 1000 Miami (USA) - Hard",
+        "player1": "Xiyu Wang CHN",
+        "player2": "Emma Raducanu GBR",
+        "eventName": "Xiyu Wang CHN vs Emma Raducanu GBR",
+        "eventDate": "2024-03-19 21:00",
+        "player1_odds": "2.25",
+        "player2_odds": "1.62",
+        "lastUpdate": "2024-03-18 15:40"
+    },
+    {
+        "tournament": "WTA 1000 Miami (USA) - Hard",
+        "player1": "Xinyu Wang CHN",
+        "player2": "Hailey Baptiste USA",
+        "eventName": "Xinyu Wang CHN vs Hailey Baptiste USA",
+        "eventDate": "2024-03-19 21:00",
+        "player1_odds": "1.65",
+        "player2_odds": "2.20",
+        "lastUpdate": "2024-03-18 15:40"
+    },
+    {
+        "tournament": "WTA 1000 Miami (USA) - Hard",
+        "player1": "Diana Shnaider RUS",
+        "player2": "Venus Williams USA",
+        "eventName": "Diana Shnaider RUS vs Venus Williams USA",
+        "eventDate": "2024-03-19 21:00",
+        "player1_odds": "1.13",
+        "player2_odds": "5.75",
+        "lastUpdate": "2024-03-18 15:40"
+    },
+    {
+        "tournament": "WTA 1000 Miami (USA) - Hard",
+        "player1": "Ana Bogdan ROU",
+        "player2": "Katerina Siniakova CZE",
+        "eventName": "Ana Bogdan ROU vs Katerina Siniakova CZE",
+        "eventDate": "2024-03-19 21:00",
+        "player1_odds": "2.55",
+        "player2_odds": "1.50",
+        "lastUpdate": "2024-03-18 15:40"
+    },
+    {
+        "tournament": "WTA 1000 Miami (USA) - Hard",
+        "player1": "Peyton Stearns USA",
+        "player2": "Yafan Wang CHN",
+        "eventName": "Peyton Stearns USA vs Yafan Wang CHN",
+        "eventDate": "2024-03-19 21:00",
+        "player1_odds": "1.78",
+        "player2_odds": "2.00",
+        "lastUpdate": "2024-03-18 15:40"
+    },
+    {
+        "tournament": "WTA 1000 Miami (USA) - Hard",
+        "player1": "Jaqueline Cristian ROU",
+        "player2": "Diane Parry FRA",
+        "eventName": "Jaqueline Cristian ROU vs Diane Parry FRA",
+        "eventDate": "2024-03-19 21:00",
+        "player1_odds": "2.55",
+        "player2_odds": "1.50",
+        "lastUpdate": "2024-03-18 15:40"
+    },
+    {
+        "tournament": "WTA 1000 Miami (USA) - Hard",
+        "player1": "Cristina Bucsa ESP",
+        "player2": "Yulia Putintseva KAZ",
+        "eventName": "Cristina Bucsa ESP vs Yulia Putintseva KAZ",
+        "eventDate": "2024-03-19 21:00",
+        "player1_odds": "2.70",
+        "player2_odds": "1.45",
+        "lastUpdate": "2024-03-18 15:40"
+    },
+    {
+        "tournament": "WTA 1000 Miami (USA) - Hard",
+        "player1": "Lesia Tsurenko UKR",
+        "player2": "Magda Linette POL",
+        "eventName": "Lesia Tsurenko UKR vs Magda Linette POL",
+        "eventDate": "2024-03-19 21:00",
+        "player1_odds": "1.57",
+        "player2_odds": "2.35",
+        "lastUpdate": "2024-03-18 15:40"
+    },
+    {
+        "tournament": "WTA 1000 Miami (USA) - Hard",
+        "player1": "Clara Burel FRA",
+        "player2": "Caroline Wozniacki DEN",
+        "eventName": "Clara Burel FRA vs Caroline Wozniacki DEN",
+        "eventDate": "2024-03-19 21:00",
+        "player1_odds": "2.35",
+        "player2_odds": "1.57",
+        "lastUpdate": "2024-03-18 15:40"
+    },
+    {
+        "tournament": "WTA 1000 Miami (USA) - Hard",
+        "player1": "Simona Halep ROU",
+        "player2": "Paula Badosa ESP",
+        "eventName": "Simona Halep ROU vs Paula Badosa ESP",
+        "eventDate": "2024-03-19 21:00",
+        "player1_odds": "1.75",
+        "player2_odds": "2.05",
+        "lastUpdate": "2024-03-18 15:40"
+    },
+    {
+        "tournament": "WTA 1000 Miami (USA) - Qualification - Hard",
+        "player1": "Tamara Korpatsch GER",
+        "player2": "Maria Timofeeva RUS",
+        "eventName": "Tamara Korpatsch GER vs Maria Timofeeva RUS",
+        "player1_odds": "4.75",
+        "player2_odds": "1.16",
+        "lastUpdate": "2024-03-18 15:40"
+    },
+    {
+        "tournament": "WTA 1000 Miami (USA) - Qualification - Hard",
+        "player1": "Bernarda Pera USA",
+        "player2": "Aleksandra Krunic SRB",
+        "eventName": "Bernarda Pera USA vs Aleksandra Krunic SRB",
+        "player1_odds": "1.85",
+        "player2_odds": "1.90",
+        "lastUpdate": "2024-03-18 15:40"
+    },
+    {
+        "tournament": "WTA 1000 Miami (USA) - Qualification - Hard",
+        "player1": "Nadia Podoroska ARG",
+        "player2": "Maria Camila Osorio COL",
+        "eventName": "Nadia Podoroska ARG vs Maria Camila Osorio COL",
+        "player1_odds": "1.60",
+        "player2_odds": "2.25",
+        "lastUpdate": "2024-03-18 15:40"
+    },
+    {
+        "tournament": "WTA 1000 Miami (USA) - Qualification - Hard",
+        "player1": "Oceane Dodin FRA",
+        "player2": "Clara Tauson DEN",
+        "eventName": "Oceane Dodin FRA vs Clara Tauson DEN",
+        "player1_odds": "3.00",
+        "player2_odds": "1.36",
+        "lastUpdate": "2024-03-18 15:40"
+    },
+    {
+        "tournament": "WTA 1000 Miami (USA) - Qualification - Hard",
+        "player1": "Anna Karolina Schmiedlova SVK",
+        "player2": "Rebecca Sramkova SVK",
+        "eventName": "Anna Karolina Schmiedlova SVK vs Rebecca Sramkova SVK",
+        "eventDate": "2024-03-19 00:15",
+        "player1_odds": "1.87",
+        "player2_odds": "1.87",
+        "lastUpdate": "2024-03-18 15:40"
+    },
+    {
+        "tournament": "WTA 1000 Miami (USA) - Qualification - Hard",
+        "player1": "Taylor Townsend USA",
+        "player2": "Emina Bektas USA",
+        "eventName": "Taylor Townsend USA vs Emina Bektas USA",
+        "eventDate": "2024-03-19 00:15",
+        "player1_odds": "1.30",
+        "player2_odds": "3.30",
+        "lastUpdate": "2024-03-18 15:40"
+    }
+]
