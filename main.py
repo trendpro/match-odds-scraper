@@ -11,12 +11,6 @@ if __name__ == "__main__":
     # Scrape the page and get results
     html_dump = asyncio.run(scrape_page(url))
 
-    # # Save grid HTML content to a text file
-    # with open("output/html_dump.txt", "w", encoding="utf-8") as html_file:
-    #     html_file.write(html_dump)
-
-    print("HTML content saved to html_dump.txt")
-
     extracted_data = parse_html_dump(html_dump)
     save_data_as_json(extracted_data, json_file_path)
 
