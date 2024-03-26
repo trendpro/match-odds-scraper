@@ -1,10 +1,9 @@
 # web_scraper.py
-import asyncio
 import time
 from playwright.async_api import async_playwright, TimeoutError
 
 
-async def scrape_page(url):
+async def scrape_page(url):  # -> Any:
     """Scrapes a webpage, scrolls to load content, intercepts JSON responses with 'fixture' in the URL,
     extracts HTML content of a specific div, and saves them to files.
 
@@ -24,7 +23,9 @@ async def scrape_page(url):
 
         try:
             page_title_selector = ".fixture-list-header > ms-tab-bar:nth-child(1) > ms-scroll-adapter:nth-child(1) > div:nth-child(1) > div:nth-child(1) > ul:nth-child(1) > li:nth-child(1) > a:nth-child(1) > span:nth-child(1)"
-            await page.wait_for_selector(page_title_selector, timeout=10000)  # Adjust timeout as needed
+            await page.wait_for_selector(
+                page_title_selector, timeout=10000
+            )  # Adjust timeout as needed
         except TimeoutError as e:
             print("Title not found within timeout.", e)
 
@@ -40,6 +41,7 @@ async def scrape_page(url):
         await browser.close()
 
     return html_dump
+
 
 async def is_scrolling_needed(page):
     """Checks if further scrolling is needed based on the presence of the '.grid-footer > div:nth-child(1)' div.
